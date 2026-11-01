@@ -1,3 +1,4 @@
+# GREEN 2026-11-01 | cold, 5 min | one-pass hashmap, O(n) / O(n)
 # rep nov 1
 
 class Solution:
