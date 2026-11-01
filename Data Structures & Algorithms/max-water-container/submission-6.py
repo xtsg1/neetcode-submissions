@@ -1,3 +1,4 @@
+# GREEN 2026-10-31 | cold, first try, 12:04 | move the shorter side, O(n) / O(1)
 # oct 31 rep
 
 # QUESTION

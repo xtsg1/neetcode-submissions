@@ -1,3 +1,4 @@
+# YELLOW 2026-10-25 | hint: two pointers | redo due Nov 1
 # O(1) attempt
 
 # Approach

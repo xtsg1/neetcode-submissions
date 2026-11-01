@@ -1,3 +1,4 @@
+# SEEN | learned with hints/solution | needs a cold solve | code is correct; tip: store best (L, R), slice once at the end
 # todo fix this shit
 class Solution:
 

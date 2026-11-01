@@ -1,3 +1,4 @@
+# SEEN | learned with hints/solution | needs a cold solve
 #sliding window
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:

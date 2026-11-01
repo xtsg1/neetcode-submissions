@@ -1,4 +1,4 @@
-# YELLOW 2026-10-27 | hint: trace loop on match (infinite loop) | redo ~Oct 30: dedupe w/o set (skip repeats)
+# YELLOW 2026-10-27 | hint: trace loop on match (infinite loop) | redo OVERDUE: dedupe by skipping repeats, no set
 
 
 # Approach

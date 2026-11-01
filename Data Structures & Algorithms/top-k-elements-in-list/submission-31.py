@@ -1,3 +1,4 @@
+# YELLOW 2026-10-29 | several hints for bucket sort | redo ~Nov 5 cold
 
 # rep oct 28
 

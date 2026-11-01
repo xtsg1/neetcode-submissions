@@ -1,3 +1,4 @@
+# YELLOW 2026-10-30 | hint: only start counting at n where n-1 not in set | redo ~Nov 6 | drop the no-op pass branch
 # oct 30 rep
 # 9:13 to spare with 2 small hints
 

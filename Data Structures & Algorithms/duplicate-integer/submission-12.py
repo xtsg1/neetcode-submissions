@@ -1,3 +1,4 @@
+# GREEN 2026-10-30 | cold | len(set) < len(nums), O(n) time / O(n) space
 # rep oct 30
 
 # Approach

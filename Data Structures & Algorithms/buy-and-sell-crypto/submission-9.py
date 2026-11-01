@@ -1,3 +1,4 @@
+# YELLOW 2026-10-31 | hints: brute force first, then min-so-far | redo ~Nov 7 | fix comment: this is O(n), not O(n^2)
 # rep oct 31
 
 # QUESTION

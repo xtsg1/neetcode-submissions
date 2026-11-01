@@ -1,3 +1,4 @@
+# GREEN 2026-10-31 | cold, first try, 14:30 | stack, O(n) / O(n); third if is redundant, just pop
 # rep oct 31
 
 # QUESTION

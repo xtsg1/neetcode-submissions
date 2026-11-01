@@ -1,3 +1,4 @@
+# GREEN 2026-11-01 | cold, first try, 20:03 | sorted-key dict, O(n*k log k); upgrade: 26-count tuple key -> O(n*k)
 #rep nov 1
 
 ## QUESTION

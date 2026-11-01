@@ -1,3 +1,4 @@
+# GREEN 2026-10-31 | never seen, cold, 5:20, first try | count dict is O(n) space, not O(1); optional: Boyer-Moore for O(1)
 #first attempt
 
 
