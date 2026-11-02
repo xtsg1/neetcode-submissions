@@ -1,3 +1,4 @@
+# GREEN 2026-11-02 | cold, first try, 17:36 | two pointers O(n) / O(1); inner if l>=r / l<=r checks are dead code (always true/false inside while l<r)
 # nov 2 cold rep
 
 # QUESTION
