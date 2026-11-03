@@ -1,3 +1,4 @@
+# YELLOW 2026-11-03 | minor hints, 25m, interrupted by on-call | length-prefix + delimiter, correct; state O(n) time/space; ''.join(list) beats += in a loop | redo ~Nov 10
 # rep Nov 3rd
 
 # QUE
