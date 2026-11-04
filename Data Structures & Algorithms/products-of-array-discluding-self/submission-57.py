@@ -1,3 +1,4 @@
+# GREEN 2026-11-04 | alone, 20:35, first try | prefix + suffix lists, O(n) time / O(n) space, complexity right | stretch: O(1) extra space
 # rep nov 4
 
 # QUE
