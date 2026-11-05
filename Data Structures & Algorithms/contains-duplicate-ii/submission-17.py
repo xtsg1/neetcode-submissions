@@ -1,3 +1,4 @@
+# GREEN 2026-11-05 | alone, 12:10, first try | value -> latest index, O(n)/O(n) stated right | upgrade: window set of last k for O(k) space
 # rep nov 5
 
 # Question
