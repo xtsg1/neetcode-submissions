@@ -1,3 +1,4 @@
+# GREEN 2026-11-05 | alone, 4 min, first try | min-so-far one pass, O(n)/O(1) stated right
 # rep nov 5
 
 # QUESTION
