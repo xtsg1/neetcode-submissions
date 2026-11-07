@@ -1,3 +1,4 @@
+# YELLOW 2026-11-07 | alone, ~25 min, window logic correct | list window TLE'd, fixed with set + remove s[l] after hint | redo ~Nov 11
 ## rep nov 7
 
 # Question
