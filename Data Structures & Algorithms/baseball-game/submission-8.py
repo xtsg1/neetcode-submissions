@@ -1,3 +1,4 @@
+# GREEN 2026-11-07 | alone, 15 min, first try | tidy: symbols first, else int(o)
 # first try nov 7
 
 # APPROACH
