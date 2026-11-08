@@ -1,3 +1,4 @@
+# GREEN 2026-11-08 | first try | complexity: O(m*n) time, O(m*n) space for the output
 # first attempt nov 8
 
 # QUES
