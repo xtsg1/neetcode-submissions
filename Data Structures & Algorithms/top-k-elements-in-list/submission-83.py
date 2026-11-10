@@ -1,4 +1,3 @@
-# GREEN 2026-11-10 | first try, cold | complexity: O(n) time, O(n) space | review ~Nov 17
 # rep nov 10
 
 # Approach
