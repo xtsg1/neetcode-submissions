@@ -1,3 +1,4 @@
+# YELLOW 2026-11-10 | cold, no hints, 11:22 | not optimal: loop over nums lets repeated start numbers re-walk the run (O(n^2) worst case) | redo ~Nov 14
 # rep nov 10
 
 # QUESTION
