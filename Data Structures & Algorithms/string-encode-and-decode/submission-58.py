@@ -1,3 +1,4 @@
+# GREEN 2026-11-10 | first try, cold, ~15m | complexity: O(n) time, O(n) space (use ''.join to keep encode O(n)) | review ~Dec 1
 # rep nov 10
 
 # APPROACH
