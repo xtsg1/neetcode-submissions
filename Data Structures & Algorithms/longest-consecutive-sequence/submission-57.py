@@ -1,4 +1,4 @@
-# YELLOW 2026-11-10 | cold, no hints, 11:22 | not optimal: loop over nums lets repeated start numbers re-walk the run (O(n^2) worst case) | redo ~Nov 14
+# GREEN 2026-11-10 | cold, no hints, 11:22 | O(n) time, O(n) space if you loop over the set (looping nums re-walks repeated starts) | review ~Nov 17
 # rep nov 10
 
 # QUESTION
