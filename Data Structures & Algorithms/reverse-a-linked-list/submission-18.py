@@ -1,3 +1,4 @@
+# GREEN 2026-11-11 | cold, first try, 9:52 | complexity: O(n) time, O(1) space
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
