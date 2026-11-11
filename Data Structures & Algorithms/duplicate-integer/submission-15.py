@@ -1,3 +1,4 @@
+# GREEN 2026-11-11 | review, first try, 2:45 | complexity: O(n) time (building the set reads every element), O(n) space
 # rep nov 11
 
 # APPROACH
