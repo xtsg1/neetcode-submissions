@@ -1,3 +1,4 @@
+# RED 2026-11-12 | needed hints up to the full approach (dummy node + tail, while i and j, attach leftover) | complexity: O(n+m) time, O(1) space | redo ~Nov 14
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
