@@ -1,3 +1,4 @@
+# YELLOW 2026-11-11 | hint: box top-left corners + walk the 3x3; range syntax | complexity: O(n^2) for an n x n board (O(1) for fixed 9x9), O(n) space | redo ~Nov 15
 # rep Nov 11
 
 # QUESTION
