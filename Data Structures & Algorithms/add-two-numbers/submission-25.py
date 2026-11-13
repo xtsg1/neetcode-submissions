@@ -1,3 +1,4 @@
+# YELLOW 2026-11-13 | own plan (ones column first, carry, dummy node); hints: loop while l1 or l2 or carry with missing digit = 0, carry reset, None check before .next | complexity: O(max(n,m)) time, O(1) extra space | redo ~Nov 17
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
