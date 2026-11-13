@@ -1,3 +1,4 @@
+# YELLOW 2026-11-13 | cold, alone, accepted first try 20:40 | window kept as a string: 'in' + slice are O(k) each -> O(n*k) time; a set makes it O(n). Comment said O(1) time, it's O(n) | redo ~Nov 17
 #rep nov 13
 
 # QUESTION
