@@ -1,3 +1,4 @@
+# GREEN review 2026-11-13 | 4:40, first try, O(n) time | space is O(1) for 26 lowercase letters (O(k) for k distinct chars), not O(n) | next review ~Dec 4
 # rep nov 13
 
 # QUESTION
