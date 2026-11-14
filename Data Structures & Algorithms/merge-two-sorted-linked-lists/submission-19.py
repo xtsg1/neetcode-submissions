@@ -1,3 +1,4 @@
+# YELLOW 2026-11-14 | 20m, own plan + code, one hint: tail = tail.next (connect vs move) | complexity: O(n+m) time, O(1) space (reuses nodes, not O(n)) | redo ~Nov 18
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
