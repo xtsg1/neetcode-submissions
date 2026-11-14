@@ -1,3 +1,4 @@
+# YELLOW review 2026-11-14 | 15:22, two pointers right; hints: l < r guard on the inner skip loops, l == r check was wrong (odd palindromes) | complexity: O(n) time, O(1) space | redo ~Nov 18
 # rep nov 14
 
 # QUESTION
