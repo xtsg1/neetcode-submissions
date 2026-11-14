@@ -1,3 +1,4 @@
+# GREEN review 2026-11-14 | 14:20, alone, O(n) time / O(n) space both right | style: elif branches repeat the if test (use else), end can be 'return not opened' | next review ~Dec 5
 # rep nov 14
 
 # QUESTION
