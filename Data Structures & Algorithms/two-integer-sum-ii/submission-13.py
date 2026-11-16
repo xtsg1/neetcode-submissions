@@ -1,3 +1,4 @@
+# GREEN review 2026-11-16 | cold, alone, ~13 min, first try | O(n) time, O(1) space both right; dead l>=r guards from Nov 2 gone | tip: while l < r instead of while True | next review ~Dec 7
 # rep nov 16
 
 # QUESTION
