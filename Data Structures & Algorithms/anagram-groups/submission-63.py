@@ -1,3 +1,4 @@
+# YELLOW 2026-11-16 | own plan + code in ~5-10 min; ~30 min total: needed help seeing that .get() returns the value and an empty list is falsy (if-branch never stored the first word) | complexity: O(n*k log k) time, O(n*k) space | redo ~Nov 20
 # rep nov 16
 
 # QUESTION
