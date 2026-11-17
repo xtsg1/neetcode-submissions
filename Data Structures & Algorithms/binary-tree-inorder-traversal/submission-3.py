@@ -1,3 +1,4 @@
+# SEEN 2026-11-17 | first tree problem; concept video + hints (call stack, shared list, helper skeleton) | code correct | time is O(n) not O(n log n): each node visited once | space O(n) output + O(h) recursion stack | cold redo ~Nov 19
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
