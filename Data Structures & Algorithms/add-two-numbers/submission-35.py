@@ -1,4 +1,3 @@
-# GREEN 2026-11-17 | cold, alone, no hints; fixed own bugs by tracing | O(max(m,n)) time and space (output list) | cleanup: int carry (s // 10, s % 10) instead of bool flag; "if l1: s += l1.val; l1 = l1.next" instead of 4 ternaries | next review ~Nov 24
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
