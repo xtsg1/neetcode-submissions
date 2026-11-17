@@ -1,3 +1,4 @@
+# SEEN 2026-11-16 | guided walkthrough, then own plan + code | transpose (j from i+1, one-line tuple swap) + reverse each row | O(n^2) time, O(1) space | first submit failed only on returning matrix (in-place = return None) | cold redo ~Nov 19
 # first attempt nov 16
 
 # QUESTION
