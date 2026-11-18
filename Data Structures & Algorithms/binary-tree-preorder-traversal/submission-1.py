@@ -1,3 +1,4 @@
+# GREEN 2026-11-18 | cold, first try, 10:00; first cold tree solve | O(n) time right | space: O(n) output + O(h) recursion stack | nit: helper returns res but nobody uses it; return nothing or use the value | next review ~Dec 9
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
