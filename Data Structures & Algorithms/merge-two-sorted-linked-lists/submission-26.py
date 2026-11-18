@@ -1,3 +1,4 @@
+# GREEN 2026-11-18 | cold, alone, 14:59, first submit; fixed own missing advance | O(n+m) time, O(1) space (relinks nodes) both right | nits: tail advance after leftover line unneeded; return head.next directly | next review ~Nov 25
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
