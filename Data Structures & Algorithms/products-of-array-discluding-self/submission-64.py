@@ -1,3 +1,4 @@
+# GREEN 2026-11-19 | review, alone, first try, 23 min | next review ~Dec 10
 # rep nov 19
 
 # QUESTION
