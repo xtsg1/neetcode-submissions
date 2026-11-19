@@ -1,3 +1,4 @@
+# YELLOW 2026-11-19 | correct, alone, 14:40 | list window: 'in' + pop(0) are O(k) -> O(n*k), use a set | redo ~Nov 23
 # rep nov 19
 
 # QUESTION
