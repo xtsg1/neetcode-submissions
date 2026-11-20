@@ -1,3 +1,4 @@
+# GREEN 2026-11-20 | cold, alone, first try, 11 min | add O(n) time / O(h) stack line | review ~Nov 27
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
