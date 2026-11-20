@@ -1,3 +1,4 @@
+# YELLOW 2026-11-20 | first binary search | hints: nums[m] not m, branch direction | 15 min | redo ~Nov 24
 # first attempt nov 20
 
 # QUESTION
