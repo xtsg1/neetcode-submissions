@@ -1,3 +1,4 @@
+# YELLOW 2026-11-20 | box corners alone; hints: dupe filter (new list, not remove-in-loop), range(j, j+3) typo | ~40 min | redo ~Nov 24
 # rep nov 20
 
 # QUESTION
