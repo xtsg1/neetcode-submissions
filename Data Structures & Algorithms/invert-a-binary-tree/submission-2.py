@@ -1,3 +1,4 @@
+# GREEN 2026-11-20 | cold, alone, first try, first sight, 12 min | space is O(h) recursion stack, not O(1) | review ~Nov 27
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
