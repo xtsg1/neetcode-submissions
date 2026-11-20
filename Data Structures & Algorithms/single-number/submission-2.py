@@ -1,3 +1,4 @@
+# GREEN 2026-11-20 | alone, first submit, untimed (first bit session) | the iso == 0 OR branch is redundant: res ^= n alone works | review ~Nov 27
 # first attempt nov 5
 
 # QUESTION
