@@ -1,3 +1,4 @@
+# GREEN 2026-11-21 | first sight, alone, first submit, 23:35 | space is O(h); h -= 1 not needed (each call has its own h); try return 1 + max(left, right) | review ~Nov 28
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
