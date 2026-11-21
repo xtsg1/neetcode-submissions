@@ -1,3 +1,4 @@
+# GREEN 2026-11-21 | first sight, alone, first submit, 12:50 | add the complexity line: O(1) time (fixed 32 steps), O(1) space | review ~Nov 28
 # first attempt nov 21
 
 # QUESTION
