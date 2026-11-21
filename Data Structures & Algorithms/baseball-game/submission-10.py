@@ -1,3 +1,4 @@
+# GREEN 2026-11-21 | review, alone, first submit, 10:50, complexity written first | fixed the old try/except: else int(o) handles negatives | review ~Dec 12
 # rep nov 21
 
 # APPROACH
