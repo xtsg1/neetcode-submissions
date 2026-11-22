@@ -1,3 +1,4 @@
+# RED 2026-11-22 | sum-formula idea was your own; range ends must come from the problem (0..len), not the array | redo ~Nov 24
 # first attempt
 
 # QUESTION
