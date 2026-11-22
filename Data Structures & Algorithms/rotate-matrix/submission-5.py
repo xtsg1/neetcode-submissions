@@ -1,3 +1,4 @@
+# GREEN 2026-11-22 | cold, alone, first submit, 10:10 | time is O(n^2) for an n x n grid (every cell is touched), space O(1) | review ~Dec 13
 # rep nov 22
 
 # APPROACH
