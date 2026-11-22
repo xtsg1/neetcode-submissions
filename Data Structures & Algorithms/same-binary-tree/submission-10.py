@@ -1,3 +1,4 @@
+# YELLOW 2026-11-22 | ~35 min, one hint past 25 min | recursive calls' True/False results were being thrown away; both-None must return True | redo ~Nov 26
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
