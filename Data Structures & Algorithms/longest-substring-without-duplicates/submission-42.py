@@ -1,3 +1,4 @@
+# GREEN 2026-11-23 | cold, no hints, 12:30 | review ~Nov 30
 # rep nov 23
 
 # QUESTION
