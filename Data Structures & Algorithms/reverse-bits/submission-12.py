@@ -1,3 +1,4 @@
+# GREEN 2026-11-23 | cold, no hints, 24 min | review ~Nov 30
 # 1st attempt nov 23
 
 # APPROACH
