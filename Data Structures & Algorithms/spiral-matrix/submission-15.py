@@ -1,3 +1,4 @@
+# RED 2026-11-24 | own approach, hints on directions list + check next square, final loop given | redo ~Nov 26
 # first attempt
 
 # APPROACH
