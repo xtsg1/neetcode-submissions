@@ -1,3 +1,4 @@
+# GREEN 2026-11-24 | XOR, alone, first submit, 13 min, O(n) time O(1) space | review ~Dec 1
 # rep november 24
 
 # APPROACH
