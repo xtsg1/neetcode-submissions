@@ -1,3 +1,4 @@
+# GREEN 2026-11-24 | cold, no hints, 13 min, O(log n) time O(1) space | review ~Dec 1
 # rep nov 24
 
 #APPROACH
