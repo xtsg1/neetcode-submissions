@@ -1,3 +1,4 @@
+# GREEN 2026-11-25 | alone, first submit, 20:20 | space is O(min(n, k)), not O(1) | review ~Dec 2
 #rep nov 25
 #
 #QUESTION
