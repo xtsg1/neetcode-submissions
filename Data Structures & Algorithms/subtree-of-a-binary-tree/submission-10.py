@@ -1,3 +1,4 @@
+# YELLOW 2026-11-25 | hint: base-case returns (both None / one None / both exist) + final return True | redo ~Nov 29
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
