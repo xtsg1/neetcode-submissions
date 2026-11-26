@@ -1,3 +1,4 @@
+# GREEN 2026-11-26 | alone, first submit, 16:20 (Nov 20: ~40 min) | own column loop worked; zip(*board) was a style swap | no complexity line: O(n^2) for n x n, O(1) for fixed 9x9 | review ~Dec 3
 # rep nov 26
 
 # APPROACH
