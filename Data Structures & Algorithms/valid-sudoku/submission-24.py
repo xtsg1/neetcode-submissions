@@ -1,3 +1,4 @@
+# GREEN 2026-11-26 | alone, first submit, 16:20 (Nov 20: ~40 min) | O(n^2) time, O(n) space, both right | review ~Dec 3
 # rep nov 26
 
 # APPROACH
