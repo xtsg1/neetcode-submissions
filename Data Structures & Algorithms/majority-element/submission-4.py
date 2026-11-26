@@ -1,3 +1,4 @@
+# GREEN 2026-11-26 | review, alone, first submit, 10:30, O(n)/O(n) right | max(count, key=count.get) is simpler than the reverse dict | review ~Dec 17
 # rep nov 26
 
 # QUESTION
