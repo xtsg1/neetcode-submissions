@@ -1,3 +1,4 @@
+# SEEN 2026-11-27 | after solution video | cold solve ~Nov 29
 # first attempt untimed
 
 
