@@ -1,3 +1,4 @@
+# EXAM YELLOW 2026-11-28 | pattern named alone, O(n) approach alone | hints: compare to s-1, advance s on drops, buy before s += 1, book last trade
 # exam nov 28
 
 # QUESTION
